@@ -13,11 +13,16 @@
 - [Specifications](#specifications)
 - [FAQs](#faqs)
   - [Web app](#web-app-1)
-    - [JSONschema.net looks differen. What changed?](#jsonschemanet-looks-differen-what-changed)
-    - [Will my login still work?](#will-my-login-still-work)
-    - [Where did my old schemas go?](#where-did-my-old-schemas-go)
+    - [_JSONschema.net looks differen. What changed?_](#jsonschemanet-looks-differen-what-changed)
+    - [_Will my login still work?_](#will-my-login-still-work)
+    - [_Where did my old schemas go?_](#where-did-my-old-schemas-go)
+    - [_I've found a bug_](#ive-found-a-bug)
+    - [_I've have a feature request_](#ive-have-a-feature-request)
   - [CLI](#cli-1)
+    - [_Where can I download the CLI?_](#where-can-i-download-the-cli)
+    - [_Where can I find out more about the CLI?_](#where-can-i-find-out-more-about-the-cli)
   - [API](#api-1)
+    - [_Where can I find out more about the API?_](#where-can-i-find-out-more-about-the-api)
 - [About](#about)
 - [Contact](#contact)
 - [Cookie Policy](#cookie-policy)
@@ -167,7 +172,9 @@ JSON Schema is great, but can be verbose. For example, a single empty JSON objec
 }
 ```
 
-Even schemas for small APIs can quickly become hundreds of lines long. Writing schemas by hand is tedious and time consuming, and often impractical. JSONSchema.Net makes schema generation quick and painless.
+Even schemas for small APIs can quickly become hundreds of lines long. Writing schemas by hand is tedious and time
+consuming, and often impractical. JSON Systems makes schema generation quick and painless. Depending on your use-case,
+you can choose from either the web app, CLI, or API.
 
 # Who uses this software?
 Anyone wishing to generate JSON schema from JSON. Typical users are web developers and mobile app developers.
@@ -202,21 +209,34 @@ Each version updates (to varying degrees) the three parts of JSON Schema specifi
 
 # FAQs
 ## Web app
-### JSONschema.net looks differen. What changed?
+### _JSONschema.net looks differen. What changed?_
 In January 2022, a new version of the JSON Schema web app was launched. This new version was a complete rewrite of the 
 web app and brought with it many new features and bug fixes.
 
-### Will my login still work?
+### _Will my login still work?_
 Yes, accounts and account details were not impacted by the launch of the new version
 
-### Where did my old schemas go?
-JSONschema.net recently underwent a 
+### _Where did my old schemas go?_
+JSONschema.net recently underwent a complete rewrite, in the process it was announced that previously generated
+schemas will not be migrated to the new web app.
+
+### _I've found a bug_
+Please open a new issue [github.com/jsonsystems/public/issues](https://github.com/jsonsystems/public/issues).
+
+### _I've have a feature request_
+Great.  Please open a new issue [github.com/jsonsystems/public/issues](https://github.com/jsonsystems/public/issues).
 
 ## CLI
-TODO
+### _Where can I download the CLI?_
+A trial version of the CLI is available to download. This version can be used indefinitely but limits the user's JSON
+document to not more than 250 bytes.
+
+### _Where can I find out more about the CLI?_
+Please contact help@jsonschema.net.
 
 ## API
-TODO
+### _Where can I find out more about the API?_
+Please contact help@jsonschema.net.
 
 # About
 Created by Jack Wootton, Mateusz Kyc, and Kevin Glenny.
