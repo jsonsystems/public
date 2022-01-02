@@ -1,8 +1,8 @@
-# Welcome to JSONschema.net
+# Welcome to JSON Systems
 
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
-- [Welcome to JSONschema.net](#welcome-to-jsonschemanet)
+- [Welcome to JSON Systems](#welcome-to-json-systems)
 - [JSON Systems](#json-systems)
 - [Web App](#web-app)
 - [API](#api)
