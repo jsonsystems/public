@@ -18,11 +18,14 @@
     - [_Where did my old schemas go?_](#where-did-my-old-schemas-go)
     - [_I've found a bug_](#ive-found-a-bug)
     - [_I've have a feature request_](#ive-have-a-feature-request)
+    - [_Is there feature parity with the previous app?_](#is-there-feature-parity-with-the-previous-app)
   - [CLI](#cli-1)
     - [_Where can I download the CLI?_](#where-can-i-download-the-cli)
     - [_Where can I find out more about the CLI?_](#where-can-i-find-out-more-about-the-cli)
+    - [_Is a library available?_](#is-a-library-available)
   - [API](#api-1)
     - [_Where can I find out more about the API?_](#where-can-i-find-out-more-about-the-api)
+    - [_What type of API is it?_](#what-type-of-api-is-it)
 - [About](#about)
 - [Contact](#contact)
 - [Cookie Policy](#cookie-policy)
@@ -193,7 +196,11 @@ JSON Schema specificaiton is split into three parts
 2.  Validation - The validation keywords of JSON Schema.
 3.  Hyper-Schema - The hyper-media keywords of JSON Schema.
 
-JSONSchema.Net follows the Validation part of the overall specification. [json-schema.org/specification.html](http://json-schema.org/specification.html) is a good place to learning more.
+JSONSchema.Net follows the Validation part of the overall specification.
+However, the extend to which this is true changes between specifications as keywords move between
+Core, Validation, and Hyper-Schema.
+
+[json-schema.org/specification.html](http://json-schema.org/specification.html) is a good place to learning more.
 
 Versioning of JSON Schema specifications can be confusing. [json-schema.org](http://json-schema.org) maintains a helpful list of [specification-links](http://json-schema.org/specification-links.html). In reverse chronological order:
 
@@ -226,6 +233,12 @@ Please open a new issue [github.com/jsonsystems/public/issues](https://github.co
 ### _I've have a feature request_
 Great.  Please open a new issue [github.com/jsonsystems/public/issues](https://github.com/jsonsystems/public/issues).
 
+### _Is there feature parity with the previous app?_
+While there are many improvements, not all features have been ported to the new app, namely
+- Email schema functionality
+- XML view
+- YAML view
+
 ## CLI
 ### _Where can I download the CLI?_
 A trial version of the CLI is available to download. This version can be used indefinitely but limits the user's JSON
@@ -234,16 +247,23 @@ document to not more than 250 bytes.
 ### _Where can I find out more about the CLI?_
 Please contact help@jsonschema.net.
 
+### _Is a library available?_
+A library has not been published. If you're interested in using our Go library in your application pleaase contact
+help@jsonschemanet.
+
 ## API
 ### _Where can I find out more about the API?_
 Please contact help@jsonschema.net.
+
+### _What type of API is it?_
+The Json Schema API is available as both a REST and gRPC. In both cases the API is resource oriented.
 
 # About
 Created by Jack Wootton, Mateusz Kyc, and Kevin Glenny.
 Copyright 2017. Apache Licensed.
 
 # Contact
-- Email: help@jsonschema.net
+Email: help@jsonschema.net
 
 # Cookie Policy
 Our cookie policy can be read at [cookies.md](https://github.com/jsonsystems/json-schema/blob/master/cookies.md)
