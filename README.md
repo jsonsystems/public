@@ -13,7 +13,7 @@
 - [Specifications](#specifications)
 - [FAQs](#faqs)
   - [Web app](#web-app-1)
-    - [_JSONschema.net looks differen. What changed?_](#jsonschemanet-looks-differen-what-changed)
+    - [_JsonSchema.net looks different. What changed?_](#jsonschemanet-looks-different-what-changed)
     - [_Will my login still work?_](#will-my-login-still-work)
     - [_Where did my old schemas go?_](#where-did-my-old-schemas-go)
     - [_I've found a bug_](#ive-found-a-bug)
@@ -209,15 +209,15 @@ Each version updates (to varying degrees) the three parts of JSON Schema specifi
 
 # FAQs
 ## Web app
-### _JSONschema.net looks differen. What changed?_
+### _JsonSchema.net looks different. What changed?_
 In January 2022, a new version of the JSON Schema web app was launched. This new version was a complete rewrite of the 
 web app and brought with it many new features and bug fixes.
 
 ### _Will my login still work?_
-Yes, accounts and account details were not impacted by the launch of the new version
+Yes, accounts and account details were not impacted by the launch of the new version.
 
 ### _Where did my old schemas go?_
-JSONschema.net recently underwent a complete rewrite, in the process it was announced that previously generated
+JsonSchema.net recently underwent a complete rewrite, in the process it was announced that previously generated
 schemas will not be migrated to the new web app.
 
 ### _I've found a bug_
@@ -244,7 +244,7 @@ Copyright 2017. Apache Licensed.
 
 # Contact
 - Email: help@jsonschema.net
-- 
+
 # Cookie Policy
 Our cookie policy can be read at [cookies.md](https://github.com/jsonsystems/json-schema/blob/master/cookies.md)
 
