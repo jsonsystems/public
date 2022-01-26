@@ -266,7 +266,7 @@ Copyright 2017. Apache Licensed.
 Email: help@jsonschema.net
 
 # Cookie Policy
-Our cookie policy can be read at [cookies.md](https://github.com/jsonsystems/json-schema/blob/master/cookies.md)
+Our cookie policy can be read at [cookies.md](https://github.com/jsonsystems/public/blob/main/cookies.md)
 
 # Privacy Policy
-Our privacy policy can be read at [privacy.md](https://github.com/jsonsystems/json-schema/blob/master/privacy.md)
+Our privacy policy can be read at [privacy.md](https://github.com/jsonsystems/public/blob/main/privacy.md)
