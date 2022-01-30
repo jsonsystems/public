@@ -17,7 +17,7 @@
     - [_Will my login still work?_](#will-my-login-still-work)
     - [_Where did my old schemas go?_](#where-did-my-old-schemas-go)
     - [_I've found a bug_](#ive-found-a-bug)
-    - [_I've have a feature request_](#ive-have-a-feature-request)
+    - [_I have a feature request_](#ive-have-a-feature-request)
     - [_Is there feature parity with the previous app?_](#is-there-feature-parity-with-the-previous-app)
   - [CLI](#cli-1)
     - [_Where can I download the CLI?_](#where-can-i-download-the-cli)
@@ -59,7 +59,7 @@ API and [gRPC](https://grpc.io/) API. If you would like to know more please emai
 # CLI
 The `jsn` application is a modern CLI for generating JSON Schema from JSON and is available for Mac OS, Windows,
 and Linux. If you would like to know more please email help@jsonschema.net. Below is the command-line help output of the
-JSON Schema CLI and should give you a feel its functionality.
+JSON Schema CLI and should give you a feel for its functionality.
 
 ```shell
 The jsn generate-schema command.
@@ -197,7 +197,7 @@ JSON Schema specificaiton is split into three parts
 3.  Hyper-Schema - The hyper-media keywords of JSON Schema.
 
 JSONSchema.Net follows the Validation part of the overall specification.
-However, the extend to which this is true changes between specifications as keywords move between
+However, the extent to which this is true changes between specifications as keywords move between
 Core, Validation, and Hyper-Schema.
 
 [json-schema.org/specification.html](http://json-schema.org/specification.html) is a good place to learning more.
@@ -230,7 +230,7 @@ schemas will not be migrated to the new web app.
 ### _I've found a bug_
 Please open a new issue [github.com/jsonsystems/public/issues](https://github.com/jsonsystems/public/issues).
 
-### _I've have a feature request_
+### _I have a feature request_
 Great.  Please open a new issue [github.com/jsonsystems/public/issues](https://github.com/jsonsystems/public/issues).
 
 ### _Is there feature parity with the previous app?_
