@@ -199,8 +199,7 @@ JSON Schema specificaiton is split into three parts
 JSONSchema.Net follows the Validation part of the overall specification.
 However, the extent to which this is true changes between specifications as keywords move between
 Core, Validation, and Hyper-Schema.
-
-[json-schema.org/specification.html](http://json-schema.org/specification.html) is a good place to learning more.
+[json-schema.org/specification.html](http://json-schema.org/specification.html) is a good place to learn more.
 
 Versioning of JSON Schema specifications can be confusing. [json-schema.org](http://json-schema.org) maintains a helpful list of [specification-links](http://json-schema.org/specification-links.html). In reverse chronological order:
 
