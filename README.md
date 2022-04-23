@@ -17,7 +17,7 @@
     - [_Will my login still work?_](#will-my-login-still-work)
     - [_Where did my old schemas go?_](#where-did-my-old-schemas-go)
     - [_I've found a bug_](#ive-found-a-bug)
-    - [_I have a feature request_](#ive-have-a-feature-request)
+    - [_I have a feature request_](#i-have-a-feature-request)
     - [_Is there feature parity with the previous app?_](#is-there-feature-parity-with-the-previous-app)
   - [CLI](#cli-1)
     - [_Where can I download the CLI?_](#where-can-i-download-the-cli)
@@ -26,7 +26,7 @@
   - [API](#api-1)
     - [_Where can I find out more about the API?_](#where-can-i-find-out-more-about-the-api)
     - [_What type of API is it?_](#what-type-of-api-is-it)
-- [About](#about)
+- [Copyright](#copyright)
 - [Contact](#contact)
 - [Cookie Policy](#cookie-policy)
 - [Privacy Policy](#privacy-policy)
@@ -258,8 +258,7 @@ Please contact help@jsonschema.net.
 ### _What type of API is it?_
 The Json Schema API is available as both a REST and gRPC. In both cases the API is resource oriented.
 
-# About
-Created by Jack Wootton, Mateusz Kyc, and Kevin Glenny.
+# Copyright
 Copyright 2017. Apache Licensed.
 
 # Contact
