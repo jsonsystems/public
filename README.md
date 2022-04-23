@@ -221,7 +221,7 @@ In January 2022, a new version of the JSON Schema web app was launched. This new
 web app and brought with it many new features and bug fixes.
 
 ### _Will my login still work?_
-Yes, accounts and account details were not impacted by the launch of the new version.
+No, accounts and account details were not migrated to the new version.
 
 ### _Where did my old schemas go?_
 JsonSchema.net recently underwent a complete rewrite, in the process it was announced that previously generated
