@@ -39,7 +39,7 @@ JSON Systems provide 3 ways to generate JSON Schema from JSON
 3. Command Line Interface (CLI)
 
 # Web App
-[JSONschema.net](https://www.jsonschema.net) is a modern web application for generating JSON Schema from JSON.
+[JsonSchema.net](https://www.jsonschema.net) is a modern web application for generating JSON Schema from JSON.
 JSON Schema is generated according to
 the [JSON Schema Validation: A Vocabulary for Structural Validation of JSON](http://json-schema.org/latest/json-schema-validation.html). 
 A number of features make generating schemas quick and easy
@@ -52,7 +52,7 @@ A number of features make generating schemas quick and easy
 If you've found a bug or have a feature request, please [open a new issue](https://github.com/jsonsystems/public/issues).
 
 # API
-The same API that powers [JSONSchema.Net](https://www.jsonschema.net)  is available to developers to automate JSON
+The same API that powers [JsonSchema.Net](https://www.jsonschema.net)  is available to developers to automate JSON
 schema generation The API is available as both a [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 API and [gRPC](https://grpc.io/) API. If you would like to know more please email help@jsonschema.net.
 
@@ -181,7 +181,7 @@ you can choose from either the web app, CLI, or API.
 
 # Who uses this software?
 Anyone wishing to generate JSON schema from JSON. Typical users are web developers and mobile app developers.
-Some educational institutions also use [JSONSchema.Net](https://www.jsonschema.net) to teach JSON Schema and the core
+Some educational institutions also use [JsonSchema.Net](https://www.jsonschema.net) to teach JSON Schema and the core
 options defined by [JSON Schema Validation](http://json-schema.org/latest/json-schema-validation.html).
 
 # How can your organization benefit?
@@ -196,14 +196,15 @@ JSON Schema specificaiton is split into three parts
 2.  Validation - The validation keywords of JSON Schema.
 3.  Hyper-Schema - The hyper-media keywords of JSON Schema.
 
-JSONSchema.Net follows the Validation part of the overall specification.
+JsonSchema.net follows the Validation part of the overall specification.
 However, the extent to which this is true changes between specifications as keywords move between
 Core, Validation, and Hyper-Schema.
 [json-schema.org/specification.html](http://json-schema.org/specification.html) is a good place to learn more.
 
 Versioning of JSON Schema specifications can be confusing. [json-schema.org](http://json-schema.org) maintains a helpful list of [specification-links](http://json-schema.org/specification-links.html). In reverse chronological order:
 
-- Latest Snapshot (work in progress)
+- Draft 2020-12
+- Draft 2019-09
 - Draft 7
 - Draft 6
 - Draft 5
