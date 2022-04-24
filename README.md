@@ -61,7 +61,7 @@ The `jsn` application is a modern CLI for generating JSON Schema from JSON and i
 and Linux. If you would like to know more please email help@jsonschema.net. Below is the command-line help output of the
 JSON Schema CLI and should give you a feel for its functionality.
 
-```shell
+```
 The jsn generate-schema command.
 
 To get started you need only provide the path to your JSON document.
