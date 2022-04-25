@@ -24,7 +24,6 @@
   - [API](#api-1)
     - [_Where can I find out more about the API?_](#where-can-i-find-out-more-about-the-api)
     - [_What type of API is it?_](#what-type-of-api-is-it)
-- [Copyright](#copyright)
 - [Contact](#contact)
 - [Cookie Policy](#cookie-policy)
 - [Privacy Policy](#privacy-policy)
