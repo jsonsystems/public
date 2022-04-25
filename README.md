@@ -256,9 +256,6 @@ Please contact help@jsonschema.net.
 ### _What type of API is it?_
 The Json Schema API is available as both a REST and gRPC. In both cases the API is resource oriented.
 
-# Copyright
-Copyright 2017. Apache Licensed.
-
 # Contact
 Email: help@jsonschema.net
 
